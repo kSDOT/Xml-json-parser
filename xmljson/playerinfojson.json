@@ -1,0 +1,25 @@
+[
+    {
+        "experience": 23456,
+        "hitpoints": 40,
+        "inventory": [
+            {
+                "durability": 3,
+                "subtype": "Long sword",
+                "type": 0
+            },
+            {
+                "durability": 10,
+                "subtype": "Chain mail",
+                "type": 1
+            }
+        ],
+        "location": "room1",
+        "name": "PlayerName",
+        "password": "pass",
+        "position": {
+            "x": 1,
+            "y": 0
+        }
+    }
+]
